@@ -1,0 +1,19 @@
+{
+  "name": "cryptodata",
+  "description": "cryptodata ==========",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/HeliosDX/cryptodata",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "latest",
+    "jquery": "~2.2",
+    "jquery-ui": "latest"
+  }
+}

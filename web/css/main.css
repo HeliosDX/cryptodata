@@ -1,0 +1,52 @@
+body {
+    font-family: 'montserrat-regular', sans-serif;
+}
+
+.navbar-brand {
+    padding: 10px 20px;
+}
+
+.navbar-brand>img {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.logo_img {
+    display: inline-block;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px 5px;
+    max-width: 1000px;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+.price {
+    /*min-width: 8em;*/
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.devise {
+    font-weight: bold;
+}
+
+.devise img {
+    width: 16px;
+}
+
+.rank {
+    width: 25px;
+}

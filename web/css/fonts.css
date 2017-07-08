@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'refrigerator-light'; /*a name to be used later*/
+    src: url('../fonts/refrigerator-light.ttf'); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'montserrat-regular'; /*a name to be used later*/
+    src: url('../fonts/Montserrat-Regular.ttf'); /*URL to font*/
+}
